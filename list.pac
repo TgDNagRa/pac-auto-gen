@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2023-07-23 00:31:28
- * GFWList Last-Modified: 2023-05-20 03:42:18
+ * Generated: 2023-07-30 00:30:15
+ * GFWList Last-Modified: 2023-07-23 17:13:01
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2354,6 +2354,7 @@ var rules = [
             "greenreadings.com",
             "greenvpn.net",
             "greenvpn.org",
+            "grindr.com",
             "grotty-monday.com",
             "grow.google",
             "gs-discuss.com",
@@ -2737,6 +2738,7 @@ var rules = [
             "imb.org",
             "imdb.com",
             "img.ly",
+            "imgasd.com",
             "imgchili.net",
             "imgmega.com",
             "imgur.com",
@@ -5797,6 +5799,7 @@ var rules = [
             "xiaohexie.com",
             "xiaolan.me",
             "xiaoma.org",
+            "xiaomi.eu",
             "xiaxiaoqiang.net",
             "xiezhua.com",
             "xihua.es",
