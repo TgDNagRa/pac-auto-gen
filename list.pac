@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2024-02-18 00:27:21
- * GFWList Last-Modified: 2023-12-30 17:31:14
+ * Generated: 2024-02-25 00:27:32
+ * GFWList Last-Modified: 2024-02-19 15:27:32
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2645,6 +2645,7 @@ var rules = [
             "hulkshare.com",
             "hulu.com",
             "huluim.com",
+            "humanparty.me",
             "humanrightspressawards.org",
             "hung-ya.com",
             "hungerstrikeforaids.org",
@@ -4922,6 +4923,7 @@ var rules = [
             "telesco.pe",
             "tellme.pw",
             "tenacy.com",
+            "tenor.com",
             "tensorflow.org",
             "tenzinpalmo.com",
             "terabox.com",
