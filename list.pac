@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2024-06-02 00:30:09
- * GFWList Last-Modified: 2024-06-01 15:27:48
+ * Generated: 2024-06-09 00:31:43
+ * GFWList Last-Modified: 2024-06-07 03:48:34
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -426,6 +426,7 @@ var rules = [
             "apkmonk.com",
             "apkplz.com",
             "apkpure.com",
+            "apkpure.net",
             "aplusvpn.com",
             "appbrain.com",
             "appdownloader.net",
@@ -1293,6 +1294,7 @@ var rules = [
             "deviantart.net",
             "devio.us",
             "devpn.com",
+            "devv.ai",
             "dfas.mil",
             "dfn.org",
             "dharamsalanet.com",
@@ -3143,6 +3145,7 @@ var rules = [
             "lianyue.net",
             "liaowangxizang.net",
             "liberal.org.hk",
+            "libertysculpturepark.com",
             "libertytimes.com.tw",
             "libraryinformationtechnology.com",
             "libredd.it",
@@ -3187,7 +3190,6 @@ var rules = [
             "livedoor.jp",
             "liveleak.com",
             "livemint.com",
-            "livestation.com",
             "livestream.com",
             "livevideo.com",
             "livingonline.us",
@@ -3195,7 +3197,7 @@ var rules = [
             "liwangyang.com",
             "lizhizhuangbi.com",
             "lkcn.net",
-            "llss.me",
+            "lmsys.org",
             "lncn.org",
             "load.to",
             "lobsangwangyal.com",
@@ -4039,6 +4041,7 @@ var rules = [
             "piposay.com",
             "piraattilahti.org",
             "piring.com",
+            "pixeldrain.com",
             "pixelqi.com",
             "pixiv.net",
             "pixnet.in",
@@ -4236,9 +4239,9 @@ var rules = [
             "qz.com",
             "r0.ru",
             "r18.com",
-            "ra.gg",
             "radicalparty.org",
             "radiko.jp",
+            "radio-canada.ca",
             "radio.garden",
             "radioaustralia.net.au",
             "radiohilight.net",
@@ -4848,6 +4851,7 @@ var rules = [
             "taipei.gov.tw",
             "taipeisociety.org",
             "taipeitimes.com",
+            "taisounds.com",
             "taiwan-sex.com",
             "taiwanbible.com",
             "taiwancon.com",
@@ -5779,6 +5783,7 @@ var rules = [
             "wqyd.org",
             "wrchina.org",
             "wretch.cc",
+            "writesonic.com",
             "wsj.com",
             "wsj.net",
             "wsjhk.com",
@@ -5936,7 +5941,6 @@ var rules = [
             "yingsuoss.com",
             "yinlei.org",
             "yipub.com",
-            "yiyechat.com",
             "yizhihongxing.com",
             "yobit.net",
             "yobt.com",
@@ -5985,13 +5989,13 @@ var rules = [
             "yuanzhengtang.org",
             "yulghun.com",
             "yunchao.net",
-            "yuntipub.com",
             "yuvutu.com",
             "yvesgeleyn.com",
             "ywpw.com",
             "yx51.net",
             "yyii.org",
             "yyjlymb.xyz",
+            "yysub.net",
             "yzzk.com",
             "z-lib.org",
             "zacebook.com",
