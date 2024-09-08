@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2024-09-01 00:38:21
- * GFWList Last-Modified: 2024-08-14 19:07:05
+ * Generated: 2024-09-08 00:35:37
+ * GFWList Last-Modified: 2024-09-02 15:03:48
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -453,7 +453,6 @@ var rules = [
             "api.ai",
             "api.dropboxapi.com",
             "api.linksalpha.com",
-            "api.proxlet.com",
             "api.pureapk.com",
             "api.recaptcha.net",
             "apiary.io",
@@ -756,7 +755,6 @@ var rules = [
             "blog.martinoei.com",
             "blog.pathtosharepoint.com",
             "blog.pentalogic.net",
-            "blog.qooza.hk",
             "blog.ranxiang.com",
             "blog.sina.com.tw",
             "blog.sogoo.org",
@@ -887,6 +885,7 @@ var rules = [
             "buzzhand.com",
             "buzzhand.net",
             "buzzorange.com",
+            "buzzsprout.com",
             "bvpn.com",
             "bwgyhw.com",
             "bwh1.net",
@@ -3002,6 +3001,7 @@ var rules = [
             "iuksky.com",
             "ivacy.com",
             "iverycd.com",
+            "ivonblog.com",
             "ivpn.net",
             "iwara.tv",
             "ixquick.com",
@@ -3017,6 +3017,7 @@ var rules = [
             "jamaat.org",
             "jamestown.org",
             "jamyangnorbu.com",
+            "jan.ai",
             "jandyx.com",
             "janwongphoto.com",
             "japan-whores.com",
@@ -4110,8 +4111,6 @@ var rules = [
             "pen.io",
             "penchinese.com",
             "penchinese.net",
-            "pengyulong.com",
-            "penisbot.com",
             "penthouse.com",
             "pentoy.hk",
             "peoplebookcafe.com",
@@ -4127,7 +4126,6 @@ var rules = [
             "phapluan.org",
             "phayul.com",
             "philborges.com",
-            "philly.com",
             "phmsociety.org",
             "phncdn.com",
             "phosphation13.rssing.com",
@@ -4373,12 +4371,10 @@ var rules = [
             "raizoji.or.jp",
             "ramcity.com.au",
             "rangwang.biz",
-            "rangzen.com",
             "rangzen.net",
             "rangzen.org",
             "ranyunfei.com",
             "rapbull.net",
-            "rapidgator.net",
             "rapidmoviez.com",
             "rapidvpn.com",
             "rarbgprx.org",
@@ -5221,6 +5217,7 @@ var rules = [
             "ticket.com.tw",
             "tigervpn.com",
             "tiktok.com",
+            "tiktokv.com",
             "tiltbrush.com",
             "timdir.com",
             "time.com",
