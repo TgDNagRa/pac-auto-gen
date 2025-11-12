@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-10-12 13:30:52
- * GFWList Last-Modified: 2025-10-11 13:12:35
+ * Generated: 2025-11-12 13:45:19
+ * GFWList Last-Modified: 2025-11-08 16:50:38
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -508,6 +508,7 @@ var rules = [
             "asiaharvest.org",
             "asianage.com",
             "asianews.it",
+            "asianfanfics.com",
             "asiansexdiary.com",
             "asiaone.com",
             "asiatgp.com",
@@ -838,7 +839,6 @@ var rules = [
             "btcbank.bank",
             "btctrade.im",
             "btdig.com",
-            "btdigg.org",
             "btguard.com",
             "btku.me",
             "btku.org",
@@ -1360,9 +1360,7 @@ var rules = [
             "definebabe.com",
             "deja.com",
             "delcamp.net",
-            "delicious.com",
             "demo.unlock-music.dev",
-            "democrats.org",
             "demosisto.hk",
             "deno.dev",
             "depositphotos.com",
@@ -1433,6 +1431,7 @@ var rules = [
             "doc.new",
             "docker.com",
             "docker.io",
+            "dockerstatus.com",
             "docs.deno.com",
             "docs.new",
             "doctorvoice.org",
@@ -1819,6 +1818,7 @@ var rules = [
             "flecheinthepeche.fr",
             "fleshbot.com",
             "fleursdeslettres.com",
+            "flexclip.com",
             "flexpool.io",
             "flgjustice.org",
             "flickr.com",
@@ -2742,6 +2742,7 @@ var rules = [
             "imageflea.com",
             "imageglass.org",
             "images-gaytube.com",
+            "images.prismic.io",
             "imageshack.us",
             "imagevenue.com",
             "imagezilla.net",
@@ -4846,6 +4847,7 @@ var rules = [
             "telesco.pe",
             "tellapart.com",
             "tellme.pw",
+            "temu.com",
             "tenacy.com",
             "tenor.com",
             "tensorflow.org",
@@ -5107,6 +5109,7 @@ var rules = [
             "trtc.com.tw",
             "truebuddha-md.org",
             "trulyergonomic.com",
+            "trustwallet.com",
             "truthsocial.com",
             "truveo.com",
             "tryheart.jp",
@@ -5564,6 +5567,7 @@ var rules = [
             "webrtc.org",
             "webrush.net",
             "webs-tv.net",
+            "websdr.org",
             "website.informer.com",
             "website.new",
             "websitepulse.com",
@@ -5811,6 +5815,7 @@ var rules = [
             "xn--noss43i.com",
             "xn--oiq.cc",
             "xn--p8j9a0d9c9a.xn--q9jyb4c",
+            "xn--u2u927b.com",
             "xnpool.com",
             "xnxx.com",
             "xpdo.net",
@@ -5936,6 +5941,7 @@ var rules = [
             "z-lib.gl",
             "z-lib.io",
             "z-lib.org",
+            "z-library.ec",
             "z-library.sk",
             "zacebook.com",
             "zalmos.com",
